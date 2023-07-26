@@ -7,3 +7,5 @@ This repository contains code that demonstrates the ability to create machine le
 The file `Usage notes.ipynb` contains basic steps describing raw image preprocessing, feature extraction, model tuning and evaluation on hold-out validation and test sets in Python 3.9. The `requirements.txt` file contains the necessary libraries used for data processing.
 
 All instructions for running are inside `Usage notes.ipynb`.
+
+The interactive notebook assumes that the data files are in the `data` directory. The metadata file has the path `data/metadata.csv`, the source images are stored in the path `data/photo/...`.
