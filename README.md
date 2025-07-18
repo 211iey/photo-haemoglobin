@@ -1,3 +1,7 @@
+## 2025-2학기 URP3형 literature review study
+- literature review: https://211iey.tistory.com/21
+
+
 # Usage Notes for "Dataset of human skin and fingernails images for non-invasive haemoglobin level assessment"
 
 This repository contains code that demonstrates the ability to create machine learning models from nail and hand skin image data from "Dataset of human skin and fingernails images for non-invasive haemoglobin level assessment". 
